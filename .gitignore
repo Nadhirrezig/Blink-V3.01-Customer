@@ -47,3 +47,5 @@ app.*.map.json
 
 app_constants.dart
 main.dart
+lib/main.dart
+lib/app_constants.dart
