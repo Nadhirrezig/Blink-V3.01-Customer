@@ -29,8 +29,8 @@ abstract class AppConstants {
   static const String merchantId = '10000100';
   static const String merchantKey = '46f0cd694581a';
 
-  static const String demoUserLogin = 'user@githubit.com';
-  static const String demoUserPassword = 'githubit';
+  static const String demoUserLogin = 'user@nadhir.com';
+  static const String demoUserPassword = 'nadhir123';
 
   /// locales
   static const String localeCodeEn = 'en';
