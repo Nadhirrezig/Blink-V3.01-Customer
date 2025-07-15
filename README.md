@@ -1,4 +1,4 @@
-# Foodyman Customer app 
+# Customer app 
 
 Foodyman is a multi restaurant marketplace.
 
